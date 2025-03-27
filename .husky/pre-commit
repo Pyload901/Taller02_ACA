@@ -1,1 +1,2 @@
 echo "Ejecutando pre-commit..."
+echo ""
